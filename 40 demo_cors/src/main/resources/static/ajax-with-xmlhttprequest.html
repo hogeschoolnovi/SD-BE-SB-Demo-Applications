@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>AJAX with XMLHttpRequest</title>
+    <script language="JavaScript">
+    function loadData(url) {
+        let xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange = function() {
+            if (this.readyState == 4) {
+                document.getElementById("status").innerHTML = this.status;
+                if (this.status == 200) {
+                    document.getElementById("data").innerHTML = this.responseText;
+                }
+            }
+        };
+        xhttp.onerror = function() {
+            document.getElementById("status").innerHTML = "Woops, there was an error making the request.";
+        };
+        xhttp.open("GET", url, true);
+        xhttp.send();
+    }
+    </script>
+    <style>
+        #url {
+            width: 20em;
+        }
+        pre {
+            height: 2em;
+            border: 1px solid darkgray;
+            margin: 0;
+            padding: 3px;
+            white-space: pre-wrap;
+        }
+        p {
+            margin: 0;
+            margin-bottom: 8px;
+        }
+        #data {
+            height: 20em;
+        }
+    </style>
+</head>
+<body>
+    <p>
+        <label>URL</label>
+        <input type="text" id="url" value="http://localhost:8080/customers">
+        <input type="button" value="Get data" onclick="loadData(url.value);">
+    </p>
+    <p>
+        <label>Status Code</label>
+        <pre id="status"></pre>
+    </p>
+    <p>
+        <label>Body</label>
+        <pre id="data"></pre>
+    </p>
+</body>
+</html>

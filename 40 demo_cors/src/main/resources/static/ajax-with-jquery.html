@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sample CORS</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script language="javascript">
+<!--    $(document).ready(function () {-->
+<!--        performlogin()-->
+<!--        function performlogin() {-->
+<!--            var settings = {-->
+<!--                "async": true,-->
+<!--                "crossDomain": true,-->
+<!--                "url": "http://localhost:8084/mobile-app-ws/email-verification",-->
+<!--                "method": "POST",-->
+<!--                "headers": {-->
+<!--                    "Content-Type": "application/json",-->
+<!--                    "cache-control": "no-cache"-->
+<!--                },-->
+<!--                "processData": false,-->
+<!--                "data": "{\"token\": \"474hfy8fjsd894jfhgye92osldf84\"}"-->
+<!--            }-->
+<!--            $.ajax(settings).done(function (response) {-->
+<!--                console.log(response);-->
+<!--            });-->
+<!--        }-->
+<!--    });-->
+
+function loadDoc() {
+    var xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function() {
+        if (this.readyState == 4 && this.status == 200) {
+            document.getElementById("data").innerHTML = this.responseText;
+        }
+    };
+    xhttp.open("GET", "http://localhost:8080/customers", true);
+    xhttp.send();
+}
+</script>
+    <style>
+        #data {
+            height: 20em;
+            width: 40em;
+        }
+    </style>
+</head>
+<body>
+    <label>URL</label><input type="text" id="url">
+    <pre id="data"></pre>
+</body>
+</html>
