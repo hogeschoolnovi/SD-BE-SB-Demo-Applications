@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sample File Upload - Method 1</title>
+    <script>
+        var url_upload_file = 'http://localhost:8080/api/method1/files';
+        var url_get_list_of_files = 'http://localhost:8080/api/method1/files';
+
+        function loadData(url) {
+            fetch(url)
+                .then(response => response.json())
+                .then(data => processData(data));
+        }
+
+        function processData(data) {
+            console.log(data);
+            let number_of_files = data.length;
+
+            let html = "<div>Number of files: " + number_of_files + "</div>";
+            html += "<table>";
+            for (let i=0; i<number_of_files; i++) {
+                html += "<tr>";
+                var row = data[i];
+                for (let item in row) {
+                    html += "<td>";
+                    html += item
+                    html += "</>td>";
+                }
+                html += "</tr>";
+            }
+            html += "</table>";
+
+            let list_of_files = document.getElementById('list_of_files');
+            list_of_files.innerHTML = "<div>Number of files: " + number_of_files + "</div>"
+
+        }
+
+        function refresh() {
+            loadData(url_get_list_of_files);
+        }
+    </script>
+    <style>
+        body {
+            line-height: 2;
+        }
+        label {
+            display: inline-block;
+            width: 15em;
+        }
+        input {
+            padding: 0.5em;
+            margin-bottom: 1em;
+        }
+        .title {
+            font-weight: bold;
+        }
+        #url_upload, #url_list {
+            border: 0px none;
+            width: 20em;
+        }
+        #file {
+            border: 1px solid lightgray;
+            width: 40em;
+        }
+        .section {
+            margin: 3em;
+        }
+    </style>
+</head>
+<body>
+    <div class="section">
+    <label class="title">API endpoint for file upload</label> POST: <input type="text" id="url_upload" value="http://localhost:8080/api/method1/files">
+    <form method="post" action="" enctype="multipart/form-data"  onsubmit="this.action=url_upload.value;return false;">
+        <div>
+            <label>File to upload</label> <input type="file" id="file" name="file">
+        </div>
+        <div>
+            <label>Title</label> <input type="text" id="title" name="title">
+        </div>
+        <div>
+            <label>Description</label> <input type="text" id="description" name="description">
+        </div>
+        <input type="submit" value="Upload to webservice">
+    </form>
+    </div>
+    <hr>
+    <div class="section">
+        <label class="title">API endpoint for list of files</label> GET: <input type="text" id="url_list" value="http://localhost:8080/api/method1/files">
+        <div id="list_of_files">
+        </div>
+        <input type="submit" value="Refresh" onclick="refresh();">
+    </div>
+</body>
+</html>
