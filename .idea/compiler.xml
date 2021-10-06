@@ -13,12 +13,15 @@
         <module name="32 demo_file_upload" />
         <module name="30 file_upload_basic" />
         <module name="01 hello_world" />
+        <module name="41 spring_https" />
+        <module name="51 test_junit_jupiter" />
         <module name="03 crud_controller" />
         <module name="14 many_to_many_with_fields" />
         <module name="04 crud_controller_with_model" />
         <module name="21 security_with_users" />
         <module name="40 demo_cors" />
         <module name="20 demo_security" />
+        <module name="50 test_assertj" />
         <module name="10 spring_data_jdbc" />
         <module name="05 crud_controller_with_exception" />
         <module name="12 one_to_many" />
@@ -47,7 +50,7 @@
       <module name="32 demo_file_upload" target="15" />
       <module name="40 demo_cors" target="15" />
       <module name="41 spring_https" target="11" />
-      <module name="50 test_assertj" target="15" />
+      <module name="50 test_assertj" target="14" />
       <module name="51 test_junit_jupiter" target="11" />
       <module name="90 student_course" target="11" />
       <module name="91 books_api" target="11" />

@@ -28,6 +28,9 @@
         <option value="$PROJECT_DIR$/30 file_upload_basic/pom.xml" />
         <option value="$PROJECT_DIR$/31 file_upload/pom.xml" />
         <option value="$PROJECT_DIR$/32 demo_file_upload/pom.xml" />
+        <option value="$PROJECT_DIR$/41 spring_https/pom.xml" />
+        <option value="$PROJECT_DIR$/50 test_assertj/pom.xml" />
+        <option value="$PROJECT_DIR$/51 test_junit_jupiter/pom.xml" />
       </list>
     </option>
   </component>

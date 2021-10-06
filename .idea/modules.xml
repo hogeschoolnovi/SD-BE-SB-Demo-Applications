@@ -19,6 +19,9 @@
       <module fileurl="file://$PROJECT_DIR$/31 file_upload/31 file_upload.iml" filepath="$PROJECT_DIR$/31 file_upload/31 file_upload.iml" />
       <module fileurl="file://$PROJECT_DIR$/32 demo_file_upload/32 demo_file_upload.iml" filepath="$PROJECT_DIR$/32 demo_file_upload/32 demo_file_upload.iml" />
       <module fileurl="file://$PROJECT_DIR$/40 demo_cors/40 demo_cors.iml" filepath="$PROJECT_DIR$/40 demo_cors/40 demo_cors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/41 spring_https/41 spring_https.iml" filepath="$PROJECT_DIR$/41 spring_https/41 spring_https.iml" />
+      <module fileurl="file://$PROJECT_DIR$/50 test_assertj/50 test_assertj.iml" filepath="$PROJECT_DIR$/50 test_assertj/50 test_assertj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/51 test_junit_jupiter/51 test_junit_jupiter.iml" filepath="$PROJECT_DIR$/51 test_junit_jupiter/51 test_junit_jupiter.iml" />
     </modules>
   </component>
 </project>
