@@ -20,6 +20,7 @@
         <module name="04 crud_controller_with_model" />
         <module name="21 security_with_users" />
         <module name="40 demo_cors" />
+        <module name="90 student_course" />
         <module name="20 demo_security" />
         <module name="50 test_assertj" />
         <module name="10 spring_data_jdbc" />
@@ -27,6 +28,7 @@
         <module name="12 one_to_many" />
         <module name="13 many_to_many" />
         <module name="22 security_with_jwt" />
+        <module name="91 books_api" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

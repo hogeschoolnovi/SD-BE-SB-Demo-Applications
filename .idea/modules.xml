@@ -22,6 +22,8 @@
       <module fileurl="file://$PROJECT_DIR$/41 spring_https/41 spring_https.iml" filepath="$PROJECT_DIR$/41 spring_https/41 spring_https.iml" />
       <module fileurl="file://$PROJECT_DIR$/50 test_assertj/50 test_assertj.iml" filepath="$PROJECT_DIR$/50 test_assertj/50 test_assertj.iml" />
       <module fileurl="file://$PROJECT_DIR$/51 test_junit_jupiter/51 test_junit_jupiter.iml" filepath="$PROJECT_DIR$/51 test_junit_jupiter/51 test_junit_jupiter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/90 student_course/90 student_course.iml" filepath="$PROJECT_DIR$/90 student_course/90 student_course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/91 books_api/91 books_api.iml" filepath="$PROJECT_DIR$/91 books_api/91 books_api.iml" />
     </modules>
   </component>
 </project>

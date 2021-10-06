@@ -1,0 +1,53 @@
+{
+  "title": "Books API",
+  "description": "RESTful API to access the Book API",
+  "contact": {
+    "company": "Circum",
+    "name": "Peter Anema",
+    "url": "http://www.gettoworktogether.nl/",
+    "email": "info@gettoworktogether.nl"
+  },
+  "version": "1.0.0",
+  "endpoints": [
+    {
+      "method": "GET",
+      "endpoint":"",
+      "description": "Returns the home response."
+    },
+    {
+      "method": "GET",
+      "endpoint":"info",
+      "description": "Returns this description of the API."
+    },
+    {
+      "method": "GET",
+      "endpoint":"admin",
+      "description": "Returns the admin info."
+    },
+    {
+      "method": "GET",
+      "endpoint":"authenticated",
+      "description": "Returns information on the currently authenticated user."
+    },
+    {
+      "method": "GET",
+      "endpoint":"v1/books",
+      "description": "Returns a list of books."
+    },
+    {
+      "method": "GET",
+      "endpoint":"v1/books/{id}",
+      "description": "Returns one book."
+    },
+    {
+      "method": "GET",
+      "endpoint":"users",
+      "description": "Returns a list of users."
+    },
+    {
+      "method": "GET",
+      "endpoint":"users/{username}",
+      "description": "Returns one user."
+    }
+  ]
+}

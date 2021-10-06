@@ -31,6 +31,8 @@
         <option value="$PROJECT_DIR$/41 spring_https/pom.xml" />
         <option value="$PROJECT_DIR$/50 test_assertj/pom.xml" />
         <option value="$PROJECT_DIR$/51 test_junit_jupiter/pom.xml" />
+        <option value="$PROJECT_DIR$/90 student_course/pom.xml" />
+        <option value="$PROJECT_DIR$/91 books_api/pom.xml" />
       </list>
     </option>
   </component>
