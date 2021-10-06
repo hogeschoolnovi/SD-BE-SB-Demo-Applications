@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="11 spring_data_jpa" />
+        <module name="31 file_upload" />
+        <module name="51 spring_boot_starter_test_junit_jupiter" />
+        <module name="02 restful_controller" />
+        <module name="32 demo_file_upload" />
+        <module name="30 file_upload_basic" />
+        <module name="01 hello_world" />
+        <module name="41 spring_https" />
+        <module name="03 crud_controller" />
+        <module name="14 many_to_many_with_fields" />
+        <module name="04 crud_controller_with_model" />
+        <module name="21 security_with_users" />
+        <module name="40 demo_cors" />
+        <module name="90 student_course" />
+        <module name="20 demo_security" />
+        <module name="10 spring_data_jdbc" />
+        <module name="05 crud_controller_with_exception" />
+        <module name="12 one_to_many" />
+        <module name="13 many_to_many" />
+        <module name="22 security_with_jwt" />
+        <module name="50 spring_boot_starter_test_assertj" />
+        <module name="91 books_api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="01 hello_world" target="15" />
+      <module name="02 controllers" target="15" />
+      <module name="02 restful_controller" target="15" />
+      <module name="03 crud_controller" target="15" />
+      <module name="04 crud_controller_with_model" target="15" />
+      <module name="05 crud_controller_with_exception" target="15" />
+      <module name="10 spring_data_jdbc" target="15" />
+      <module name="11 spring_data_jpa" target="15" />
+      <module name="12 one_to_many" target="15" />
+      <module name="13 many_to_many" target="15" />
+      <module name="14 many_to_many_with_fields" target="15" />
+      <module name="20 demo_security" target="11" />
+      <module name="21 security_with_users" target="15" />
+      <module name="22 demo_security_with_jwt" target="11" />
+      <module name="22 security_with_jwt" target="15" />
+      <module name="30 file_upload_basic" target="11" />
+      <module name="31 file_upload" target="15" />
+      <module name="32 demo_file_upload" target="15" />
+      <module name="40 demo_cors" target="15" />
+      <module name="41 spring_https" target="11" />
+      <module name="50 spring_boot_starter_test_assertj" target="15" />
+      <module name="51 spring_boot_starter_test_junit_jupiter" target="11" />
+      <module name="90 student_course" target="11" />
+      <module name="91 books_api" target="11" />
+      <module name="crud_controller_with_entity" target="15" />
+      <module name="demo_file_upload" target="15" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="01 hello_world" options="-parameters" />
+      <module name="02 controllers" options="-parameters" />
+      <module name="02 restful_controller" options="-parameters" />
+      <module name="03 crud_controller" options="-parameters" />
+      <module name="04 crud_controller_with_model" options="-parameters" />
+      <module name="05 crud_controller_with_exception" options="-parameters" />
+      <module name="10 spring_data_jdbc" options="-parameters" />
+      <module name="11 spring_data_jpa" options="-parameters" />
+      <module name="12 one_to_many" options="-parameters" />
+      <module name="13 many_to_many" options="-parameters" />
+      <module name="14 many_to_many_with_fields" options="-parameters" />
+      <module name="20 demo_security" options="-parameters" />
+      <module name="21 security_with_users" options="-parameters" />
+      <module name="22 demo_security_with_jwt" options="-parameters" />
+      <module name="22 security_with_jwt" options="-parameters" />
+      <module name="30 file_upload_basic" options="-parameters" />
+      <module name="31 file_upload" options="-parameters" />
+      <module name="32 demo_file_upload" options="-parameters" />
+      <module name="40 demo_cors" options="-parameters" />
+      <module name="41 spring_https" options="-parameters" />
+      <module name="50 spring_boot_starter_test_assertj" options="-parameters" />
+      <module name="51 spring_boot_starter_test_junit_jupiter" options="-parameters" />
+      <module name="90 student_course" options="-parameters" />
+      <module name="91 books_api" options="-parameters" />
+      <module name="demo_file_upload" options="-parameters" />
+    </option>
+  </component>
+</project>

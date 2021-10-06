@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/01 hello_world/pom.xml" />
+        <option value="$PROJECT_DIR$/02 controllers/pom.xml" />
+        <option value="$PROJECT_DIR$/02 restful_controller/pom.xml" />
+        <option value="$PROJECT_DIR$/03 crud_controller/pom.xml" />
+        <option value="$PROJECT_DIR$/04 crud_controller_with_entity/pom.xml" />
+        <option value="$PROJECT_DIR$/05 crud_controller_with_exception/pom.xml" />
+        <option value="$PROJECT_DIR$/04 crud_controller_with_model/pom.xml" />
+        <option value="$PROJECT_DIR$/10 spring_data_jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/11 spring_data_jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/12 one_to_many/pom.xml" />
+        <option value="$PROJECT_DIR$/13 many-to-many/pom.xml" />
+        <option value="$PROJECT_DIR$/14 many-to-many-with-fields/pom.xml" />
+        <option value="$PROJECT_DIR$/20 demo_security/pom.xml" />
+        <option value="$PROJECT_DIR$/21 demo_security_with_users/pom.xml" />
+        <option value="$PROJECT_DIR$/22 security_with_jwt/pom.xml" />
+        <option value="$PROJECT_DIR$/21 security_with_users/pom.xml" />
+        <option value="$PROJECT_DIR$/13 many_to_many/pom.xml" />
+        <option value="$PROJECT_DIR$/14 many_to_many_with_fields/pom.xml" />
+        <option value="$PROJECT_DIR$/40 demo_cors/pom.xml" />
+        <option value="$PROJECT_DIR$/90 student-course/pom.xml" />
+        <option value="$PROJECT_DIR$/../sandbox/SD-BE-SB-Demo-Applications/31 file_upload/pom.xml" />
+        <option value="$PROJECT_DIR$/../sandbox/SD-BE-SB-Demo-Applications/32 demo_file_upload/pom.xml" />
+        <option value="$PROJECT_DIR$/../sandbox/SD-BE-SB-Demo-Applications/41 spring_https/pom.xml" />
+        <option value="$PROJECT_DIR$/../sandbox/SD-BE-SB-Demo-Applications/50 spring_boot_starter_test_assertj/pom.xml" />
+        <option value="$PROJECT_DIR$/../sandbox/SD-BE-SB-Demo-Applications/51 spring_boot_starter_test_junit_jupiter/pom.xml" />
+        <option value="$PROJECT_DIR$/../sandbox/SD-BE-SB-Demo-Applications/91 books_api/pom.xml" />
+        <option value="$PROJECT_DIR$/../sandbox/SD-BE-SB-Demo-Applications/30 file_upload_basic/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" project-jdk-name="15" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

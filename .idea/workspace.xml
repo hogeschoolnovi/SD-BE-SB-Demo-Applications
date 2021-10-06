@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="afa97306-7d24-4e90-8ebb-cd3cd223820c" name="Default Changelist" comment="Update" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1yN9WfsMIDBn7Pu3NC9bQP7s7UF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="openjdk-16" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.1610561" />
+    <property name="project.structure.side.proportion" value="0.24270713" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/" />
+      <recent name="$PROJECT_DIR$/21 security_with_users/src/main/java/nl/novi/demo_security" />
+      <recent name="$PROJECT_DIR$/21 security_with_users/src/main/java/nl/novi/demo_security/exception" />
+      <recent name="$PROJECT_DIR$/21 demo_security_with_users" />
+      <recent name="$PROJECT_DIR$/22 security_with_jwt/src/main/java/nl/gettoworktogether/security_with_jwt/exceptions" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/02 controllers/src/main/resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="nl.novi.demo_security.service" />
+      <recent name="nl.novi.demo_security.model" />
+      <recent name="nl.novi.demo_security.controller" />
+      <recent name="nl.gettoworktogether.security_with_jwt.exceptions" />
+      <recent name="nl.gettoworktogether.security_with_jwt.payload.request" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SpringBootStarterTestJunitJupiterApplication">
+    <configuration name="DemoCors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nl.novi.demo_cors.DemoCors" />
+      <module name="40 demo_cors" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.novi.demo_cors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootStarterTestJunitJupiterApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nl.gettoworktogether.springbootstartertestjunitjupiter.SpringBootStarterTestJunitJupiterApplication" />
+      <module name="51 spring_boot_starter_test_junit_jupiter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.gettoworktogether.springbootstartertestjunitjupiter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BaseControllerIntegrationTest.HelloWorldTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="51 spring_boot_starter_test_junit_jupiter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.gettoworktogether.springbootstartertestjunitjupiter.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nl.gettoworktogether.springbootstartertestjunitjupiter.controller" />
+      <option name="MAIN_CLASS_NAME" value="nl.gettoworktogether.springbootstartertestjunitjupiter.controller.BaseControllerIntegrationTest" />
+      <option name="METHOD_NAME" value="HelloWorldTest(org.springframework.test.web.servlet.MockMvc)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerTest.testGetAge" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="51 spring_boot_starter_test_junit_jupiter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.gettoworktogether.springbootstartertestjunitjupiter.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nl.gettoworktogether.springbootstartertestjunitjupiter.model" />
+      <option name="MAIN_CLASS_NAME" value="nl.gettoworktogether.springbootstartertestjunitjupiter.model.CustomerTest" />
+      <option name="METHOD_NAME" value="testGetAge" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerTest.testGetFullName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="51 spring_boot_starter_test_junit_jupiter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.gettoworktogether.springbootstartertestjunitjupiter.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nl.gettoworktogether.springbootstartertestjunitjupiter.model" />
+      <option name="MAIN_CLASS_NAME" value="nl.gettoworktogether.springbootstartertestjunitjupiter.model.CustomerTest" />
+      <option name="METHOD_NAME" value="testGetFullName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SpringBootStarterTestJunitJupiterApplication" />
+        <item itemvalue="Application.DemoCors" />
+        <item itemvalue="JUnit.BaseControllerIntegrationTest.HelloWorldTest" />
+        <item itemvalue="JUnit.CustomerTest.testGetAge" />
+        <item itemvalue="JUnit.CustomerTest.testGetFullName" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="afa97306-7d24-4e90-8ebb-cd3cd223820c" name="Default Changelist" comment="" />
+      <created>1632081211974</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632081211974</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Update">
+      <created>1632227347563</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1632227347563</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update">
+      <created>1632235995574</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1632235995575</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update">
+      <created>1632236467826</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1632236467827</updated>
+    </task>
+    <task id="LOCAL-00004" summary="demo_security_with_users">
+      <created>1632245768037</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1632245768037</updated>
+    </task>
+    <task id="LOCAL-00005" summary="inclusief password encoder">
+      <created>1632248056160</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1632248056160</updated>
+    </task>
+    <task id="LOCAL-00006" summary="inclusief jwt">
+      <created>1632256028136</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1632256028136</updated>
+    </task>
+    <task id="LOCAL-00007" summary="security_with_jwt updated">
+      <created>1632312573011</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1632312573011</updated>
+    </task>
+    <task id="LOCAL-00008" summary="updated">
+      <created>1632316217009</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1632316217009</updated>
+    </task>
+    <task id="LOCAL-00009" summary="updated security_with_users en security_with_jwt">
+      <created>1632316284472</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1632316284472</updated>
+    </task>
+    <task id="LOCAL-00010" summary="updated">
+      <created>1632316322630</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1632316322630</updated>
+    </task>
+    <task id="LOCAL-00011" summary="updated">
+      <created>1633466864321</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1633466864321</updated>
+    </task>
+    <task id="LOCAL-00012" summary="updated">
+      <created>1633470559712</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1633470559712</updated>
+    </task>
+    <task id="LOCAL-00013" summary="updated">
+      <created>1633475348718</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1633475348718</updated>
+    </task>
+    <task id="LOCAL-00014" summary="updated">
+      <created>1633475364286</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1633475364286</updated>
+    </task>
+    <task id="LOCAL-00015" summary="updated">
+      <created>1633504223501</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1633504223502</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Update">
+      <created>1633506179848</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1633506179848</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="demo_security_with_users" />
+    <MESSAGE value="inclusief password encoder" />
+    <MESSAGE value="inclusief jwt" />
+    <MESSAGE value="security_with_jwt updated" />
+    <MESSAGE value="security_with_users updated" />
+    <MESSAGE value="updated security_with_users en security_with_jwt" />
+    <MESSAGE value="updated" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
+  </component>
+</project>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01 hello_world/01 hello_world.iml" filepath="$PROJECT_DIR$/01 hello_world/01 hello_world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02 restful_controller/02 restful_controller.iml" filepath="$PROJECT_DIR$/02 restful_controller/02 restful_controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03 crud_controller/03 crud_controller.iml" filepath="$PROJECT_DIR$/03 crud_controller/03 crud_controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04 crud_controller_with_model/04 crud_controller_with_model.iml" filepath="$PROJECT_DIR$/04 crud_controller_with_model/04 crud_controller_with_model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05 crud_controller_with_exception/05 crud_controller_with_exception.iml" filepath="$PROJECT_DIR$/05 crud_controller_with_exception/05 crud_controller_with_exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10 spring_data_jdbc/10 spring_data_jdbc.iml" filepath="$PROJECT_DIR$/10 spring_data_jdbc/10 spring_data_jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11 spring_data_jpa/11 spring_data_jpa.iml" filepath="$PROJECT_DIR$/11 spring_data_jpa/11 spring_data_jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12 one_to_many/12 one_to_many.iml" filepath="$PROJECT_DIR$/12 one_to_many/12 one_to_many.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13 many_to_many/13 many_to_many.iml" filepath="$PROJECT_DIR$/13 many_to_many/13 many_to_many.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14 many_to_many_with_fields/14 many_to_many_with_fields.iml" filepath="$PROJECT_DIR$/14 many_to_many_with_fields/14 many_to_many_with_fields.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20 demo_security/20 demo_security.iml" filepath="$PROJECT_DIR$/20 demo_security/20 demo_security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21 security_with_users/21 security_with_users.iml" filepath="$PROJECT_DIR$/21 security_with_users/21 security_with_users.iml" />
+      <module fileurl="file://$PROJECT_DIR$/22 security_with_jwt/22 security_with_jwt.iml" filepath="$PROJECT_DIR$/22 security_with_jwt/22 security_with_jwt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sandbox/SD-BE-SB-Demo-Applications/30 file_upload_basic/30 file_upload_basic.iml" filepath="$PROJECT_DIR$/../sandbox/SD-BE-SB-Demo-Applications/30 file_upload_basic/30 file_upload_basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sandbox/SD-BE-SB-Demo-Applications/31 file_upload/31 file_upload.iml" filepath="$PROJECT_DIR$/../sandbox/SD-BE-SB-Demo-Applications/31 file_upload/31 file_upload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sandbox/SD-BE-SB-Demo-Applications/32 demo_file_upload/32 demo_file_upload.iml" filepath="$PROJECT_DIR$/../sandbox/SD-BE-SB-Demo-Applications/32 demo_file_upload/32 demo_file_upload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/40 demo_cors/40 demo_cors.iml" filepath="$PROJECT_DIR$/40 demo_cors/40 demo_cors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sandbox/SD-BE-SB-Demo-Applications/41 spring_https/41 spring_https.iml" filepath="$PROJECT_DIR$/../sandbox/SD-BE-SB-Demo-Applications/41 spring_https/41 spring_https.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sandbox/SD-BE-SB-Demo-Applications/50 spring_boot_starter_test_assertj/50 spring_boot_starter_test_assertj.iml" filepath="$PROJECT_DIR$/../sandbox/SD-BE-SB-Demo-Applications/50 spring_boot_starter_test_assertj/50 spring_boot_starter_test_assertj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sandbox/SD-BE-SB-Demo-Applications/51 spring_boot_starter_test_junit_jupiter/51 spring_boot_starter_test_junit_jupiter.iml" filepath="$PROJECT_DIR$/../sandbox/SD-BE-SB-Demo-Applications/51 spring_boot_starter_test_junit_jupiter/51 spring_boot_starter_test_junit_jupiter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/90 student_course/90 student_course.iml" filepath="$PROJECT_DIR$/90 student_course/90 student_course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sandbox/SD-BE-SB-Demo-Applications/91 books_api/91 books_api.iml" filepath="$PROJECT_DIR$/../sandbox/SD-BE-SB-Demo-Applications/91 books_api/91 books_api.iml" />
+    </modules>
+  </component>
+</project>

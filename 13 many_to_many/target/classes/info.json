@@ -1,0 +1,46 @@
+{
+  "title": "Many-to-many API",
+  "description": "RESTful API to demonstrate many-to-many relations",
+  "contact": {
+    "company": "Circum",
+    "name": "Peter Anema",
+    "url": "http://www.gettoworktogether.nl/",
+    "email": "info@gettoworktogether.nl"
+  },
+  "version": "1.0.0",
+  "endpoints": [
+    {
+      "method": "GET",
+      "endpoint":"/",
+      "description": "Returns the home response."
+    },
+    {
+      "method": "GET",
+      "endpoint":"/info",
+      "description": "Returns this description of the API."
+    },
+
+    {
+      "method": "GET",
+      "endpoint":"students",
+      "description": "Returns a list of students."
+    },
+    {
+      "method": "GET",
+      "endpoint":"students/{id}",
+      "description": "Returns one book."
+    },
+
+    {
+      "method": "GET",
+      "endpoint":"users",
+      "description": "Returns a list of users."
+    },
+    {
+      "method": "GET",
+      "endpoint":"users/{username}",
+      "description": "Returns one user."
+    }
+  ]
+
+}
