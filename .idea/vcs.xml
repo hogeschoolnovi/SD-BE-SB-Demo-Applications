@@ -3,15 +3,5 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/02 restful_controller" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/03 crud_controller" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/30 file_upload_basic" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/31 file_upload" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/32 demo_file_upload" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/41 spring_https" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/50 spring_boot_starter_test_assertj" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/51 spring_boot_starter_test_junit_jupiter" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/90 student-course" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/91 books_api" vcs="Git" />
   </component>
 </project>

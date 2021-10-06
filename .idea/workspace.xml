@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afa97306-7d24-4e90-8ebb-cd3cd223820c" name="Default Changelist" comment="Update">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,10 +50,10 @@
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="openjdk-16" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.1610561" />
     <property name="project.structure.side.proportion" value="0.24270713" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -280,7 +281,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633506179848</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Update">
+      <created>1633517434837</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1633517434837</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -308,6 +316,18 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/02 restful_controller" />
+      <path value="$PROJECT_DIR$/03 crud_controller" />
+      <path value="$PROJECT_DIR$/30 file_upload_basic" />
+      <path value="$PROJECT_DIR$/31 file_upload" />
+      <path value="$PROJECT_DIR$/32 demo_file_upload" />
+      <path value="$PROJECT_DIR$/41 spring_https" />
+      <path value="$PROJECT_DIR$/50 spring_boot_starter_test_assertj" />
+      <path value="$PROJECT_DIR$/51 spring_boot_starter_test_junit_jupiter" />
+      <path value="$PROJECT_DIR$/90 student-course" />
+      <path value="$PROJECT_DIR$/91 books_api" />
+    </ignored-roots>
     <MESSAGE value="demo_security_with_users" />
     <MESSAGE value="inclusief password encoder" />
     <MESSAGE value="inclusief jwt" />
