@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afa97306-7d24-4e90-8ebb-cd3cd223820c" name="Default Changelist" comment="Update" />
+    <list default="true" id="afa97306-7d24-4e90-8ebb-cd3cd223820c" name="Default Changelist" comment="Update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +74,7 @@
       <recent name="nl.gettoworktogether.security_with_jwt.payload.request" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SpringBootStarterTestJunitJupiterApplication">
+  <component name="RunManager" selected="Application.DemoCors">
     <configuration name="DemoCors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="nl.novi.demo_cors.DemoCors" />
       <module name="40 demo_cors" />
@@ -88,7 +90,7 @@
     </configuration>
     <configuration name="SpringBootStarterTestJunitJupiterApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="nl.gettoworktogether.springbootstartertestjunitjupiter.SpringBootStarterTestJunitJupiterApplication" />
-      <module name="51 spring_boot_starter_test_junit_jupiter" />
+      <module name="51 test_junit_jupiter" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="nl.gettoworktogether.springbootstartertestjunitjupiter.*" />
@@ -100,7 +102,7 @@
       </method>
     </configuration>
     <configuration name="BaseControllerIntegrationTest.HelloWorldTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="51 spring_boot_starter_test_junit_jupiter" />
+      <module name="51 test_junit_jupiter" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="nl.gettoworktogether.springbootstartertestjunitjupiter.controller.*" />
@@ -116,7 +118,7 @@
       </method>
     </configuration>
     <configuration name="CustomerTest.testGetAge" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="51 spring_boot_starter_test_junit_jupiter" />
+      <module name="51 test_junit_jupiter" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="nl.gettoworktogether.springbootstartertestjunitjupiter.model.*" />
@@ -132,7 +134,7 @@
       </method>
     </configuration>
     <configuration name="CustomerTest.testGetFullName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="51 spring_boot_starter_test_junit_jupiter" />
+      <module name="51 test_junit_jupiter" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="nl.gettoworktogether.springbootstartertestjunitjupiter.model.*" />
@@ -149,8 +151,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SpringBootStarterTestJunitJupiterApplication" />
         <item itemvalue="Application.DemoCors" />
+        <item itemvalue="Application.SpringBootStarterTestJunitJupiterApplication" />
         <item itemvalue="JUnit.BaseControllerIntegrationTest.HelloWorldTest" />
         <item itemvalue="JUnit.CustomerTest.testGetAge" />
         <item itemvalue="JUnit.CustomerTest.testGetFullName" />
