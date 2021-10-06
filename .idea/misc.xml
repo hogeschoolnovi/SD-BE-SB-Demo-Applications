@@ -23,15 +23,11 @@
         <option value="$PROJECT_DIR$/14 many_to_many_with_fields/pom.xml" />
         <option value="$PROJECT_DIR$/40 demo_cors/pom.xml" />
         <option value="$PROJECT_DIR$/90 student-course/pom.xml" />
-        <option value="$PROJECT_DIR$/../sandbox/SD-BE-SB-Demo-Applications/31 file_upload/pom.xml" />
-        <option value="$PROJECT_DIR$/../sandbox/SD-BE-SB-Demo-Applications/32 demo_file_upload/pom.xml" />
-        <option value="$PROJECT_DIR$/../sandbox/SD-BE-SB-Demo-Applications/41 spring_https/pom.xml" />
         <option value="$PROJECT_DIR$/../sandbox/SD-BE-SB-Demo-Applications/50 spring_boot_starter_test_assertj/pom.xml" />
         <option value="$PROJECT_DIR$/../sandbox/SD-BE-SB-Demo-Applications/51 spring_boot_starter_test_junit_jupiter/pom.xml" />
-        <option value="$PROJECT_DIR$/../sandbox/SD-BE-SB-Demo-Applications/91 books_api/pom.xml" />
-        <option value="$PROJECT_DIR$/../sandbox/SD-BE-SB-Demo-Applications/30 file_upload_basic/pom.xml" />
-        <option value="$PROJECT_DIR$/../sandbox/SD-BE-SB-Demo-Applications/50 test_assertj/pom.xml" />
-        <option value="$PROJECT_DIR$/../sandbox/SD-BE-SB-Demo-Applications/51 test_junit_jupiter/pom.xml" />
+        <option value="$PROJECT_DIR$/30 file_upload_basic/pom.xml" />
+        <option value="$PROJECT_DIR$/31 file_upload/pom.xml" />
+        <option value="$PROJECT_DIR$/32 demo_file_upload/pom.xml" />
       </list>
     </option>
   </component>
