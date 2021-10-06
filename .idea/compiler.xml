@@ -10,6 +10,7 @@
         <module name="31 file_upload" />
         <module name="02 restful_controller" />
         <module name="32 demo_file_upload" />
+        <module name="spring-boot-starter-test" />
         <module name="30 file_upload_basic" />
         <module name="01 hello_world" />
         <module name="41 spring_https" />
@@ -19,6 +20,7 @@
         <module name="21 security_with_users" />
         <module name="40 demo_cors" />
         <module name="20 demo_security" />
+        <module name="spring-boot-starter-test (1)" />
         <module name="10 spring_data_jdbc" />
         <module name="05 crud_controller_with_exception" />
         <module name="12 one_to_many" />
@@ -54,6 +56,8 @@
       <module name="91 books_api" target="11" />
       <module name="crud_controller_with_entity" target="15" />
       <module name="demo_file_upload" target="15" />
+      <module name="spring-boot-starter-test" target="15" />
+      <module name="spring-boot-starter-test (1)" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
