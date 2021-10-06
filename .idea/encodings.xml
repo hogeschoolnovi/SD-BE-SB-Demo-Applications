@@ -2,18 +2,27 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/01 hello_world/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02 restful_controller/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/03 crud_controller/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/04 crud_controller_with_model/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/05 crud_controller_with_exception/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10 spring_data_jdbc/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/11 spring_data_jpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/12 one_to_many/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/13 many_to_many/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/14 many_to_many_with_fields/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/20 demo_security/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/21 security_with_users/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/22 security_with_jwt/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/40 demo_cors/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../sandbox/SD-BE-SB-Demo-Applications/30 file_upload_basic/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../sandbox/SD-BE-SB-Demo-Applications/31 file_upload/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../sandbox/SD-BE-SB-Demo-Applications/32 demo_file_upload/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../sandbox/SD-BE-SB-Demo-Applications/41 spring_https/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../sandbox/SD-BE-SB-Demo-Applications/41 spring_https/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../sandbox/SD-BE-SB-Demo-Applications/50 test_assertj/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../sandbox/SD-BE-SB-Demo-Applications/50 test_assertj/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../sandbox/SD-BE-SB-Demo-Applications/51 test_junit_jupiter/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../sandbox/SD-BE-SB-Demo-Applications/51 test_junit_jupiter/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../sandbox/SD-BE-SB-Demo-Applications/91 books_api/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../sandbox/SD-BE-SB-Demo-Applications/91 books_api/src/main/resources" charset="UTF-8" />
