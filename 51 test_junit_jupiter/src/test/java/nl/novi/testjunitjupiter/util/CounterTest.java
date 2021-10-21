@@ -7,29 +7,20 @@ import static org.junit.jupiter.api.Assertions.*;
 class CounterTest {
 
     @Test
-    void simpelTest() {
-        String s = "abcdefg";
-        String upper = s.toUpperCase();
-        assertEquals("ABCDEFG", upper);
-    }
-
-    @Test
-    void simpelTest2() {
-        String s = "ABCDEFG";
-        String actual = s.toLowerCase();
-        assertEquals("abcdefg", actual);
-    }
-
-    @Test
     void testCounter() {
         // arange
         Counter counter = new Counter();
 
         // act
-        counter.add(10);
+        counter.add();
+        counter.add();
+
+        int actual = counter.getTotal();
 
         // assert
-        assertEquals(10, counter.getTotal());
+        int expected = 2;
+
+        assertEquals(expected, actual);
     }
 
 
@@ -49,5 +40,20 @@ class CounterTest {
         int expected = 144;
         assertEquals(expected, actual);
     }
+
+    @Test
+    void simpelTest() {
+        String s = "abcdefg";
+        String upper = s.toUpperCase();
+        assertEquals("ABCDEFG", upper);
+    }
+
+    @Test
+    void simpelTest2() {
+        String s = "ABCDEFG";
+        String actual = s.toLowerCase();
+        assertEquals("abcdefg", actual);
+    }
+
 
 }

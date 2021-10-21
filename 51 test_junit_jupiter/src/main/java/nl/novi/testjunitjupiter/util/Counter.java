@@ -12,6 +12,10 @@ public class Counter {
         total += getal;
     }
 
+    public void add() {
+        total += 1;
+    }
+
     public int getTotal() {
         return total;
     }

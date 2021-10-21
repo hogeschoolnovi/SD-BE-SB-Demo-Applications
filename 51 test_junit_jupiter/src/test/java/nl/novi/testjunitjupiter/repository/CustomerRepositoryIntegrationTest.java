@@ -30,11 +30,12 @@ class CustomerRepositoryIntegrationTest {
         entityManager.flush();
 
         // when
-        Customer found = customerRepository.findByLastName(customer.getLastName());
+        Customer found = customerRepository.findByLastName("Einstein");
 
         // then
         String expected = "Albert Einstein";
         String actual = found.getFullName();
+
         assertEquals(expected, actual);
     }
 

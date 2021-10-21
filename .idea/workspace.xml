@@ -5,8 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afa97306-7d24-4e90-8ebb-cd3cd223820c" name="Default Changelist" comment="Update">
+      <change afterPath="$PROJECT_DIR$/51 test_junit_jupiter/src/test/java/nl/novi/testjunitjupiter/end_to_end/TestCustomer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/40 demo_cors/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/40 demo_cors/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/51 test_junit_jupiter/src/main/java/nl/novi/testjunitjupiter/TestJunitJupiterApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/51 test_junit_jupiter/src/main/java/nl/novi/testjunitjupiter/TestJunitJupiterApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/51 test_junit_jupiter/src/main/java/nl/novi/testjunitjupiter/service/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/51 test_junit_jupiter/src/main/java/nl/novi/testjunitjupiter/service/CustomerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/51 test_junit_jupiter/src/main/java/nl/novi/testjunitjupiter/service/CustomerServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/51 test_junit_jupiter/src/main/java/nl/novi/testjunitjupiter/util/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/51 test_junit_jupiter/src/main/java/nl/novi/testjunitjupiter/util/Counter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/51 test_junit_jupiter/src/test/java/nl/novi/testjunitjupiter/controller/CustomerControllerIntegrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/51 test_junit_jupiter/src/test/java/nl/novi/testjunitjupiter/controller/CustomerControllerIntegrationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/51 test_junit_jupiter/src/test/java/nl/novi/testjunitjupiter/mocks/DemoMocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/51 test_junit_jupiter/src/test/java/nl/novi/testjunitjupiter/mocks/DemoMocks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/51 test_junit_jupiter/src/test/java/nl/novi/testjunitjupiter/repository/CustomerRepositoryIntegrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/51 test_junit_jupiter/src/test/java/nl/novi/testjunitjupiter/repository/CustomerRepositoryIntegrationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/51 test_junit_jupiter/src/test/java/nl/novi/testjunitjupiter/service/CustomerServiceImplIntegrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/51 test_junit_jupiter/src/test/java/nl/novi/testjunitjupiter/service/CustomerServiceIntegrationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/51 test_junit_jupiter/src/test/java/nl/novi/testjunitjupiter/util/CounterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/51 test_junit_jupiter/src/test/java/nl/novi/testjunitjupiter/util/CounterTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,81 +87,94 @@
       <recent name="nl.gettoworktogether.security_with_jwt.payload.request" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CustomerControllerIntegrationTest">
-    <configuration name="DemoCors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nl.novi.demo_cors.DemoCors" />
-      <module name="40 demo_cors" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="nl.novi.demo_cors.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DemoFileUpload" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nl.novi.demo_file_upload.DemoFileUpload" />
-      <module name="32 demo_file_upload" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="nl.novi.demo_file_upload.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SpringBootStarterTestJunitJupiterApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nl.gettoworktogether.springbootstartertestjunitjupiter.SpringBootStarterTestJunitJupiterApplication" />
+  <component name="RunManager" selected="JUnit.BaseControllerIntegrationTest.HelloWorldTest">
+    <configuration name="BaseControllerIntegrationTest.HelloWorldTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="51 test_junit_jupiter" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nl.gettoworktogether.springbootstartertestjunitjupiter.*" />
+          <option name="PATTERN" value="nl.novi.testjunitjupiter.controller.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="nl.novi.testjunitjupiter.controller" />
+      <option name="MAIN_CLASS_NAME" value="nl.novi.testjunitjupiter.controller.BaseControllerIntegrationTest" />
+      <option name="METHOD_NAME" value="HelloWorldTest(org.springframework.test.web.servlet.MockMvc)" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringWebHttpsApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nl.novi.spring_https.SpringWebHttpsApplication" />
-      <module name="41 spring_https" />
+    <configuration name="CounterTest.simpelTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="51 test_junit_jupiter" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nl.novi.spring_https.*" />
+          <option name="PATTERN" value="nl.novi.testjunitjupiter.util.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="nl.novi.testjunitjupiter.util" />
+      <option name="MAIN_CLASS_NAME" value="nl.novi.testjunitjupiter.util.CounterTest" />
+      <option name="METHOD_NAME" value="simpelTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CustomerControllerIntegrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="50 test_assertj" />
+    <configuration name="CounterTest.testCounter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="51 test_junit_jupiter" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nl.novi.testassertj.controller.*" />
+          <option name="PATTERN" value="nl.novi.testjunitjupiter.util.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="nl.novi.testassertj.controller" />
-      <option name="MAIN_CLASS_NAME" value="nl.novi.testassertj.controller.CustomerControllerIntegrationTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="nl.novi.testjunitjupiter.util" />
+      <option name="MAIN_CLASS_NAME" value="nl.novi.testjunitjupiter.util.CounterTest" />
+      <option name="METHOD_NAME" value="testCounter" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerRepositoryIntegrationTest.testFindByLastLast" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="51 test_junit_jupiter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.novi.testjunitjupiter.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nl.novi.testjunitjupiter.repository" />
+      <option name="MAIN_CLASS_NAME" value="nl.novi.testjunitjupiter.repository.CustomerRepositoryIntegrationTest" />
+      <option name="METHOD_NAME" value="testFindByLastLast" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerServiceIntegrationTest.testGetCustomerByLastName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="51 test_junit_jupiter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.novi.testjunitjupiter.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nl.novi.testjunitjupiter.service" />
+      <option name="MAIN_CLASS_NAME" value="nl.novi.testjunitjupiter.service.CustomerServiceIntegrationTest" />
+      <option name="METHOD_NAME" value="testGetCustomerByLastName" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CustomerControllerIntegrationTest" />
-        <item itemvalue="Application.SpringWebHttpsApplication" />
-        <item itemvalue="Application.DemoCors" />
-        <item itemvalue="Application.DemoFileUpload" />
-        <item itemvalue="Application.SpringBootStarterTestJunitJupiterApplication" />
+        <item itemvalue="JUnit.BaseControllerIntegrationTest.HelloWorldTest" />
+        <item itemvalue="JUnit.CustomerRepositoryIntegrationTest.testFindByLastLast" />
+        <item itemvalue="JUnit.CustomerServiceIntegrationTest.testGetCustomerByLastName" />
+        <item itemvalue="JUnit.CounterTest.testCounter" />
+        <item itemvalue="JUnit.CounterTest.simpelTest" />
       </list>
     </recent_temporary>
   </component>
@@ -345,7 +369,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633556506819</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Update">
+      <created>1633558675298</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1633558675298</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

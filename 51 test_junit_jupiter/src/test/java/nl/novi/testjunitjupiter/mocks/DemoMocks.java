@@ -11,9 +11,6 @@ import static org.mockito.Mockito.*;
 
 public class DemoMocks {
 
-    public void setup() {
-    }
-
     // configure simple return behavior for mock
     @Test
     public void simpleReturnBehaviour() {

@@ -33,16 +33,15 @@ public class CustomerControllerIntegrationTest {
     private MockMvc mvc;
 
     @MockBean
-    private CustomerService service;
+    private CustomerService customerService;
 
     @Test
     public void testEndpointCustomers() throws Exception {
 
         Customer customer = new Customer("Albert", "Einstein");
-
         List<Customer> allCustomers = Arrays.asList(customer);
 
-        given(service.getAllCustomers()).willReturn(allCustomers);
+        given(customerService.getAllCustomers()).willReturn(allCustomers);
 
         mvc.perform(get("/customers")
                 .contentType(MediaType.APPLICATION_JSON))

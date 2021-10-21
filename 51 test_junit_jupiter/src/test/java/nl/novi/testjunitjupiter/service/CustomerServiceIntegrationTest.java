@@ -15,13 +15,11 @@ import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.boot.test.mock.mockito.MockBean;
 import org.springframework.test.context.ContextConfiguration;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
-import static org.junit.jupiter.api.Assertions.assertNull;
+import static org.junit.jupiter.api.Assertions.*;
 
-
-@SpringBootTest()
+@SpringBootTest
 @ContextConfiguration(classes={TestJunitJupiterApplication.class})
-public class CustomerServiceImplIntegrationTest {
+public class CustomerServiceIntegrationTest {
 
     @Autowired
     private CustomerService customerService;
@@ -41,7 +39,7 @@ public class CustomerServiceImplIntegrationTest {
         customer = new Customer("Albert", "Einstein");
 
         Mockito
-                .when(customerRepository.findByLastName(customer.getLastName()))
+                .when(customerRepository.findByLastName("Einstein"))
                 .thenReturn(customer);
 
         String name = "Einstein";
