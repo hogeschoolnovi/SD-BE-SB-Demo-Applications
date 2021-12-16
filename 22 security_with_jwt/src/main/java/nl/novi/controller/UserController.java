@@ -16,8 +16,12 @@ import java.util.Map;
 @RequestMapping(value = "/users")
 public class UserController {
 
-    @Autowired
     private UserService userService;
+
+    @Autowired
+    public UserController(UserService userService) {
+        this.userService = userService;
+    }
 
     @GetMapping(value = "")
     public ResponseEntity<Object> getUsers() {

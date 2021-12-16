@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afa97306-7d24-4e90-8ebb-cd3cd223820c" name="Default Changelist" comment="CORS">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22 security_with_jwt/src/main/java/nl/novi/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/22 security_with_jwt/src/main/java/nl/novi/controller/UserController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/40 demo_cors/src/main/java/nl/novi/demo_cors/config/GlobalCorsConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/40 demo_cors/src/main/java/nl/novi/demo_cors/config/GlobalCorsConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/41 spring_https/src/main/resources/certificate.jks" beforeDir="false" afterPath="$PROJECT_DIR$/41 spring_https/src/main/resources/certificate.jks" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,9 +105,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OneToManyApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nl.novi.OneToManyApplication" />
-      <module name="12 one_to_many" />
+    <configuration name="SecurityWithJwt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nl.novi.SecurityWithJwt" />
+      <module name="22 security_with_jwt" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="nl.novi.*" />
@@ -115,18 +118,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaseControllerIntegrationTest.HelloWorldTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="51 test_junit_jupiter" />
+    <configuration name="SpringWebHttpsApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nl.novi.spring_https.SpringWebHttpsApplication" />
+      <module name="41 spring_https" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nl.novi.testjunitjupiter.controller.*" />
+          <option name="PATTERN" value="nl.novi.spring_https.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="nl.novi.testjunitjupiter.controller" />
-      <option name="MAIN_CLASS_NAME" value="nl.novi.testjunitjupiter.controller.BaseControllerIntegrationTest" />
-      <option name="METHOD_NAME" value="HelloWorldTest(org.springframework.test.web.servlet.MockMvc)" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -149,18 +149,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.DemoPageAndSortApplication" />
-      <item itemvalue="Application.OneToManyApplication" />
-      <item itemvalue="JUnit.BaseControllerIntegrationTest.HelloWorldTest" />
       <item itemvalue="JUnit.CustomerRepositoryIntegrationTest.testFindByLastLast" />
       <item itemvalue="Application.DemoCors" />
+      <item itemvalue="Application.SecurityWithJwt" />
+      <item itemvalue="Application.SpringWebHttpsApplication" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.DemoCors" />
+        <item itemvalue="Application.SpringWebHttpsApplication" />
+        <item itemvalue="Application.SecurityWithJwt" />
         <item itemvalue="Application.DemoPageAndSortApplication" />
         <item itemvalue="Application.DemoPageAndSortApplication" />
-        <item itemvalue="Application.OneToManyApplication" />
-        <item itemvalue="JUnit.BaseControllerIntegrationTest.HelloWorldTest" />
       </list>
     </recent_temporary>
   </component>
@@ -390,7 +390,21 @@
       <option name="project" value="LOCAL" />
       <updated>1639669731190</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="CORS">
+      <created>1639669865852</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1639669865852</updated>
+    </task>
+    <task id="LOCAL-00033" summary="CORS">
+      <created>1639669913765</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1639669913765</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="UnknownFeatures">
