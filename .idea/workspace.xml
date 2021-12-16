@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afa97306-7d24-4e90-8ebb-cd3cd223820c" name="Default Changelist" comment="Demo Paging and Sorting">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="afa97306-7d24-4e90-8ebb-cd3cd223820c" name="Default Changelist" comment="CORS">
       <change beforePath="$PROJECT_DIR$/40 demo_cors/src/main/java/nl/novi/demo_cors/config/GlobalCorsConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/40 demo_cors/src/main/java/nl/novi/demo_cors/config/GlobalCorsConfiguration.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -384,7 +383,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639669661666</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="CORS">
+      <created>1639669731190</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1639669731190</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -587,6 +593,7 @@
     <MESSAGE value="updated" />
     <MESSAGE value="Update" />
     <MESSAGE value="Demo Paging and Sorting" />
-    <option name="LAST_COMMIT_MESSAGE" value="Demo Paging and Sorting" />
+    <MESSAGE value="CORS" />
+    <option name="LAST_COMMIT_MESSAGE" value="CORS" />
   </component>
 </project>
