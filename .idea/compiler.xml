@@ -52,6 +52,7 @@
       <module name="32 demo_file_upload" target="15" />
       <module name="40 demo_cors" target="15" />
       <module name="41 spring_https" target="11" />
+      <module name="42 demo_page_and_sort" target="11" />
       <module name="50 test_assertj" target="14" />
       <module name="51 test_junit_jupiter" target="11" />
       <module name="90 student_course" target="11" />

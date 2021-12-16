@@ -5,19 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afa97306-7d24-4e90-8ebb-cd3cd223820c" name="Default Changelist" comment="Update">
-      <change afterPath="$PROJECT_DIR$/51 test_junit_jupiter/src/test/java/nl/novi/testjunitjupiter/end_to_end/TestCustomer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/42 demo_page_and_sort/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/42 demo_page_and_sort/src/main/java/demo_page_and_sort/DemoPageAndSortApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/42 demo_page_and_sort/src/main/java/demo_page_and_sort/controller/ItemController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/42 demo_page_and_sort/src/main/java/demo_page_and_sort/initializer/DataLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/42 demo_page_and_sort/src/main/java/demo_page_and_sort/model/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/42 demo_page_and_sort/src/main/java/demo_page_and_sort/repository/ItemRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/42 demo_page_and_sort/src/main/java/demo_page_and_sort/service/ItemService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/42 demo_page_and_sort/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/51 test_junit_jupiter/src/main/java/nl/novi/testjunitjupiter/TestJunitJupiterApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/51 test_junit_jupiter/src/main/java/nl/novi/testjunitjupiter/TestJunitJupiterApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/51 test_junit_jupiter/src/main/java/nl/novi/testjunitjupiter/service/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/51 test_junit_jupiter/src/main/java/nl/novi/testjunitjupiter/service/CustomerService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/51 test_junit_jupiter/src/main/java/nl/novi/testjunitjupiter/service/CustomerServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/51 test_junit_jupiter/src/main/java/nl/novi/testjunitjupiter/util/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/51 test_junit_jupiter/src/main/java/nl/novi/testjunitjupiter/util/Counter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/51 test_junit_jupiter/src/test/java/nl/novi/testjunitjupiter/controller/CustomerControllerIntegrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/51 test_junit_jupiter/src/test/java/nl/novi/testjunitjupiter/controller/CustomerControllerIntegrationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/51 test_junit_jupiter/src/test/java/nl/novi/testjunitjupiter/mocks/DemoMocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/51 test_junit_jupiter/src/test/java/nl/novi/testjunitjupiter/mocks/DemoMocks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/51 test_junit_jupiter/src/test/java/nl/novi/testjunitjupiter/repository/CustomerRepositoryIntegrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/51 test_junit_jupiter/src/test/java/nl/novi/testjunitjupiter/repository/CustomerRepositoryIntegrationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/51 test_junit_jupiter/src/test/java/nl/novi/testjunitjupiter/service/CustomerServiceImplIntegrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/51 test_junit_jupiter/src/test/java/nl/novi/testjunitjupiter/service/CustomerServiceIntegrationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/51 test_junit_jupiter/src/test/java/nl/novi/testjunitjupiter/util/CounterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/51 test_junit_jupiter/src/test/java/nl/novi/testjunitjupiter/util/CounterTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +61,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="openjdk-16" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/30 file_upload_basic" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SD-BE-SB-Demo-Applications OUD/42 demo_page_and_sort/src/main/resources" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.1610561" />
     <property name="project.structure.side.proportion" value="0.24270713" />
@@ -70,24 +70,50 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../SD-BE-SB-Demo-Applications OUD/42 demo_page_and_sort/src/main/resources" />
       <recent name="$PROJECT_DIR$/30 file_upload_basic" />
       <recent name="$PROJECT_DIR$/" />
       <recent name="$PROJECT_DIR$/21 security_with_users/src/main/java/nl/novi/demo_security" />
       <recent name="$PROJECT_DIR$/21 security_with_users/src/main/java/nl/novi/demo_security/exception" />
-      <recent name="$PROJECT_DIR$/21 demo_security_with_users" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/02 controllers/src/main/resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="demo_page_and_sort.initializer" />
       <recent name="nl.novi.demo_security.service" />
       <recent name="nl.novi.demo_security.model" />
       <recent name="nl.novi.demo_security.controller" />
       <recent name="nl.gettoworktogether.security_with_jwt.exceptions" />
-      <recent name="nl.gettoworktogether.security_with_jwt.payload.request" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.BaseControllerIntegrationTest.HelloWorldTest">
+  <component name="RunManager" selected="Application.DemoPageAndSortApplication">
+    <configuration name="DemoPageAndSortApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo_page_and_sort.DemoPageAndSortApplication" />
+      <module name="42 demo_page_and_sort" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo_page_and_sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OneToManyApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nl.novi.OneToManyApplication" />
+      <module name="12 one_to_many" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.novi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BaseControllerIntegrationTest.HelloWorldTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="51 test_junit_jupiter" />
       <extension name="coverage">
@@ -99,38 +125,6 @@
       <option name="PACKAGE_NAME" value="nl.novi.testjunitjupiter.controller" />
       <option name="MAIN_CLASS_NAME" value="nl.novi.testjunitjupiter.controller.BaseControllerIntegrationTest" />
       <option name="METHOD_NAME" value="HelloWorldTest(org.springframework.test.web.servlet.MockMvc)" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CounterTest.simpelTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="51 test_junit_jupiter" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="nl.novi.testjunitjupiter.util.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="nl.novi.testjunitjupiter.util" />
-      <option name="MAIN_CLASS_NAME" value="nl.novi.testjunitjupiter.util.CounterTest" />
-      <option name="METHOD_NAME" value="simpelTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CounterTest.testCounter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="51 test_junit_jupiter" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="nl.novi.testjunitjupiter.util.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="nl.novi.testjunitjupiter.util" />
-      <option name="MAIN_CLASS_NAME" value="nl.novi.testjunitjupiter.util.CounterTest" />
-      <option name="METHOD_NAME" value="testCounter" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -170,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DemoPageAndSortApplication" />
+        <item itemvalue="Application.OneToManyApplication" />
         <item itemvalue="JUnit.BaseControllerIntegrationTest.HelloWorldTest" />
         <item itemvalue="JUnit.CustomerRepositoryIntegrationTest.testFindByLastLast" />
         <item itemvalue="JUnit.CustomerServiceIntegrationTest.testGetCustomerByLastName" />
-        <item itemvalue="JUnit.CounterTest.testCounter" />
-        <item itemvalue="JUnit.CounterTest.simpelTest" />
       </list>
     </recent_temporary>
   </component>
@@ -378,6 +372,158 @@
     </task>
     <option name="localTasksCounter" value="28" />
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-core" />
+    <option featureType="dependencySupport" implementationName="java:org.slf4j:jul-to-slf4j" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.xml.bind:jakarta.xml.bind-api" />
+    <option featureType="dependencySupport" implementationName="java:org.eclipse.aether:aether-spi" />
+    <option featureType="dependencySupport" implementationName="java:org.javassist:javassist" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.data:spring-data-relational" />
+    <option featureType="dependencySupport" implementationName="java:org.sonatype.sisu:sisu-guice" />
+    <option featureType="dependencySupport" implementationName="java:org.hamcrest:hamcrest-core" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.security:spring-security-web" />
+    <option featureType="dependencySupport" implementationName="java:org.eclipse.aether:aether-util" />
+    <option featureType="dependencySupport" implementationName="java:com.zaxxer:HikariCP" />
+    <option featureType="dependencySupport" implementationName="java:org.codehaus.plexus:plexus-utils" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-webmvc" />
+    <option featureType="dependencySupport" implementationName="java:net.minidev:accessors-smart" />
+    <option featureType="dependencySupport" implementationName="java:org.sonatype.sisu:sisu-inject-plexus" />
+    <option featureType="dependencySupport" implementationName="java:org.iq80.snappy:snappy" />
+    <option featureType="dependencySupport" implementationName="java:org.aspectj:aspectjweaver" />
+    <option featureType="dependencySupport" implementationName="java:javax.annotation:jsr250-api" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.tomcat.embed:tomcat-embed-core" />
+    <option featureType="dependencySupport" implementationName="java:com.fasterxml:classmate" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-test" />
+    <option featureType="dependencySupport" implementationName="java:com.fasterxml.jackson.datatype:jackson-datatype-jsr310" />
+    <option featureType="dependencySupport" implementationName="java:commons-io:commons-io" />
+    <option featureType="dependencySupport" implementationName="java:org.hibernate:hibernate-core" />
+    <option featureType="dependencySupport" implementationName="java:org.glassfish.jaxb:jaxb-runtime" />
+    <option featureType="dependencySupport" implementationName="java:org.skyscreamer:jsonassert" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.tomcat.embed:tomcat-embed-websocket" />
+    <option featureType="dependencySupport" implementationName="java:ch.qos.logback:logback-classic" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.validation:jakarta.validation-api" />
+    <option featureType="dependencySupport" implementationName="java:org.glassfish.jaxb:txw2" />
+    <option featureType="dependencySupport" implementationName="java:org.mockito:mockito-junit-jupiter" />
+    <option featureType="dependencySupport" implementationName="java:org.sonatype.plexus:plexus-build-api" />
+    <option featureType="dependencySupport" implementationName="java:org.opentest4j:opentest4j" />
+    <option featureType="dependencySupport" implementationName="java:org.objenesis:objenesis" />
+    <option featureType="dependencySupport" implementationName="java:org.sonatype.plexus:plexus-sec-dispatcher" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-tx" />
+    <option featureType="dependencySupport" implementationName="java:org.junit.jupiter:junit-jupiter" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.maven:maven-aether-provider" />
+    <option featureType="dependencySupport" implementationName="java:junit:junit" />
+    <option featureType="dependencySupport" implementationName="java:com.google.inject:guice" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-jcl" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-web" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-starter-logging" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-starter-aop" />
+    <option featureType="dependencySupport" implementationName="java:org.codehaus.plexus:plexus-io" />
+    <option featureType="dependencySupport" implementationName="java:ch.qos.logback:logback-core" />
+    <option featureType="dependencySupport" implementationName="java:org.checkerframework:checker-qual" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.commons:commons-lang3" />
+    <option featureType="dependencySupport" implementationName="java:org.hibernate.validator:hibernate-validator" />
+    <option featureType="dependencySupport" implementationName="java:com.fasterxml.jackson.core:jackson-databind" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.logging.log4j:log4j-to-slf4j" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.maven.shared:maven-shared-utils" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-starter" />
+    <option featureType="dependencySupport" implementationName="java:org.jboss.logging:jboss-logging" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-devtools" />
+    <option featureType="dependencySupport" implementationName="java:org.slf4j:slf4j-api" />
+    <option featureType="dependencySupport" implementationName="java:org.ow2.asm:asm" />
+    <option featureType="dependencySupport" implementationName="java:org.tukaani:xz" />
+    <option featureType="dependencySupport" implementationName="java:com.google.guava:guava" />
+    <option featureType="dependencySupport" implementationName="java:org.yaml:snakeyaml" />
+    <option featureType="dependencySupport" implementationName="java:antlr:antlr" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-autoconfigure" />
+    <option featureType="dependencySupport" implementationName="java:org.postgresql:postgresql" />
+    <option featureType="dependencySupport" implementationName="java:org.sonatype.sisu:sisu-inject-bean" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-test-autoconfigure" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.maven:maven-repository-metadata" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-starter-json" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-expression" />
+    <option featureType="dependencySupport" implementationName="java:org.glassfish:jakarta.el" />
+    <option featureType="dependencySupport" implementationName="java:com.fasterxml.jackson.datatype:jackson-datatype-jdk8" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-maven-plugin" />
+    <option featureType="dependencySupport" implementationName="java:org.projectlombok:lombok" />
+    <option featureType="dependencySupport" implementationName="java:mysql:mysql-connector-java" />
+    <option featureType="dependencySupport" implementationName="java:org.assertj:assertj-core" />
+    <option featureType="dependencySupport" implementationName="java:com.fasterxml.jackson.module:jackson-module-parameter-names" />
+    <option featureType="dependencySupport" implementationName="java:com.vaadin.external.google:android-json" />
+    <option featureType="dependencySupport" implementationName="java:org.apiguardian:apiguardian-api" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-starter-data-jdbc" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-jdbc" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.maven:maven-model" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-starter-jdbc" />
+    <option featureType="dependencySupport" implementationName="java:org.mockito:mockito-core" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.transaction:jakarta.transaction-api" />
+    <option featureType="dependencySupport" implementationName="java:org.codehaus.plexus:plexus-component-annotations" />
+    <option featureType="dependencySupport" implementationName="java:net.bytebuddy:byte-buddy" />
+    <option featureType="dependencySupport" implementationName="java:org.xmlunit:xmlunit-core" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-starter-security" />
+    <option featureType="dependencySupport" implementationName="java:org.junit.jupiter:junit-jupiter-params" />
+    <option featureType="dependencySupport" implementationName="java:javax.inject:javax.inject" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-starter-validation" />
+    <option featureType="dependencySupport" implementationName="java:org.hamcrest:hamcrest" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-starter-data-jpa" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.data:spring-data-commons" />
+    <option featureType="dependencySupport" implementationName="java:org.junit.platform:junit-platform-engine" />
+    <option featureType="dependencySupport" implementationName="java:net.bytebuddy:byte-buddy-agent" />
+    <option featureType="dependencySupport" implementationName="java:org.jboss:jandex" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-aspects" />
+    <option featureType="dependencySupport" implementationName="java:com.h2database:h2" />
+    <option featureType="dependencySupport" implementationName="java:org.codehaus.plexus:plexus-classworlds" />
+    <option featureType="dependencySupport" implementationName="java:org.dom4j:dom4j" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-starter-test" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-beans" />
+    <option featureType="dependencySupport" implementationName="java:com.jayway.jsonpath:json-path" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.maven:maven-settings-builder" />
+    <option featureType="dependencySupport" implementationName="java:org.hibernate.common:hibernate-commons-annotations" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.commons:commons-compress" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.security:spring-security-config" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.security:spring-security-core" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.data:spring-data-jpa" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.activation:jakarta.activation-api" />
+    <option featureType="dependencySupport" implementationName="java:org.junit.jupiter:junit-jupiter-engine" />
+    <option featureType="dependencySupport" implementationName="java:io.jsonwebtoken:jjwt" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.maven:maven-model-builder" />
+    <option featureType="dependencySupport" implementationName="java:org.eclipse.sisu:org.eclipse.sisu.inject" />
+    <option featureType="dependencySupport" implementationName="java:org.eclipse.aether:aether-api" />
+    <option featureType="dependencySupport" implementationName="java:org.sonatype.plexus:plexus-cipher" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-loader-tools" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-starter-tomcat" />
+    <option featureType="dependencySupport" implementationName="java:com.fasterxml.jackson.core:jackson-annotations" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.maven:maven-artifact" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-test" />
+    <option featureType="dependencySupport" implementationName="java:com.fasterxml.jackson.core:jackson-core" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.maven:maven-core" />
+    <option featureType="dependencySupport" implementationName="java:org.junit.platform:junit-platform-commons" />
+    <option featureType="dependencySupport" implementationName="java:aopalliance:aopalliance" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.annotation:jakarta.annotation-api" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.persistence:jakarta.persistence-api" />
+    <option featureType="dependencySupport" implementationName="java:org.eclipse.sisu:org.eclipse.sisu.plexus" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-orm" />
+    <option featureType="dependencySupport" implementationName="java:org.codehaus.plexus:plexus-archiver" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.security:spring-security-test" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.maven:maven-builder-support" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-context" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.maven.shared:maven-common-artifact-filters" />
+    <option featureType="dependencySupport" implementationName="java:com.sun.istack:istack-commons-runtime" />
+    <option featureType="dependencySupport" implementationName="java:org.codehaus.plexus:plexus-interpolation" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-aop" />
+    <option featureType="dependencySupport" implementationName="java:javax.enterprise:cdi-api" />
+    <option featureType="dependencySupport" implementationName="java:org.junit.jupiter:junit-jupiter-api" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.data:spring-data-jdbc" />
+    <option featureType="dependencySupport" implementationName="java:net.minidev:json-smart" />
+    <option featureType="dependencySupport" implementationName="java:org.eclipse.aether:aether-impl" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.maven:maven-plugin-api" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-starter-web" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.maven:maven-settings" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.tomcat.embed:tomcat-embed-el" />
+    <option featureType="dependencySupport" implementationName="java:com.sun.activation:jakarta.activation" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.logging.log4j:log4j-api" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.maven:maven-archiver" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
