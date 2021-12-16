@@ -1,4 +1,4 @@
-package demo_page_and_sort.model;
+package nl.novi.model;
 
 import javax.persistence.*;
 
@@ -11,11 +11,12 @@ public class Item {
     private long id;
 
     private String name;
-
     private String description;
 
     // constructor(s)
 
+    public Item() {
+    }
     public Item(String name, String description) {
         this.name = name;
         this.description = description;
