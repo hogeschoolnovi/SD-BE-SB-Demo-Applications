@@ -4,20 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afa97306-7d24-4e90-8ebb-cd3cd223820c" name="Default Changelist" comment="Update">
-      <change afterPath="$PROJECT_DIR$/42 demo_page_and_sort/src/main/java/nl/novi/controller/ItemController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/42 demo_page_and_sort/src/main/java/nl/novi/initializer/DataLoader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="afa97306-7d24-4e90-8ebb-cd3cd223820c" name="Default Changelist" comment="Demo Paging and Sorting">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/42 demo_page_and_sort/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/42 demo_page_and_sort/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/42 demo_page_and_sort/src/main/java/demo_page_and_sort/DemoPageAndSortApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/42 demo_page_and_sort/src/main/java/nl/novi/DemoPageAndSortApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/42 demo_page_and_sort/src/main/java/demo_page_and_sort/controller/ItemController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/42 demo_page_and_sort/src/main/java/demo_page_and_sort/initializer/DataLoader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/42 demo_page_and_sort/src/main/java/demo_page_and_sort/model/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/42 demo_page_and_sort/src/main/java/nl/novi/model/Item.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/42 demo_page_and_sort/src/main/java/demo_page_and_sort/repository/ItemRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/42 demo_page_and_sort/src/main/java/nl/novi/repository/ItemRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/42 demo_page_and_sort/src/main/java/demo_page_and_sort/service/ItemService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/42 demo_page_and_sort/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/42 demo_page_and_sort/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/40 demo_cors/src/main/java/nl/novi/demo_cors/config/GlobalCorsConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/40 demo_cors/src/main/java/nl/novi/demo_cors/config/GlobalCorsConfiguration.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +76,20 @@
       <recent name="nl.gettoworktogether.security_with_jwt.exceptions" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DemoPageAndSortApplication">
+  <component name="RunManager" selected="Application.DemoCors">
+    <configuration name="DemoCors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nl.novi.demo_cors.DemoCors" />
+      <module name="40 demo_cors" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.novi.demo_cors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DemoPageAndSortApplication" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="nl.novi.DemoPageAndSortApplication" />
       <module name="42 demo_page_and_sort" />
@@ -151,14 +153,15 @@
       <item itemvalue="Application.OneToManyApplication" />
       <item itemvalue="JUnit.BaseControllerIntegrationTest.HelloWorldTest" />
       <item itemvalue="JUnit.CustomerRepositoryIntegrationTest.testFindByLastLast" />
+      <item itemvalue="Application.DemoCors" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DemoCors" />
         <item itemvalue="Application.DemoPageAndSortApplication" />
         <item itemvalue="Application.DemoPageAndSortApplication" />
         <item itemvalue="Application.OneToManyApplication" />
         <item itemvalue="JUnit.BaseControllerIntegrationTest.HelloWorldTest" />
-        <item itemvalue="JUnit.CustomerRepositoryIntegrationTest.testFindByLastLast" />
       </list>
     </recent_temporary>
   </component>
@@ -367,7 +370,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639660731697</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Demo Paging and Sorting">
+      <created>1639668595202</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1639668595202</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -569,6 +579,7 @@
     <MESSAGE value="updated security_with_users en security_with_jwt" />
     <MESSAGE value="updated" />
     <MESSAGE value="Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update" />
+    <MESSAGE value="Demo Paging and Sorting" />
+    <option name="LAST_COMMIT_MESSAGE" value="Demo Paging and Sorting" />
   </component>
 </project>
