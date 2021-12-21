@@ -7,6 +7,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.boot.test.autoconfigure.orm.jpa.DataJpaTest;
 import org.springframework.boot.test.autoconfigure.orm.jpa.TestEntityManager;
 import org.springframework.test.context.ContextConfiguration;
@@ -14,6 +15,7 @@ import org.springframework.test.context.ContextConfiguration;
 
 @DataJpaTest
 @ContextConfiguration(classes={TestJunitJupiterApplication.class})
+@EnableConfigurationProperties
 class CustomerRepositoryIntegrationTest {
 
     @Autowired

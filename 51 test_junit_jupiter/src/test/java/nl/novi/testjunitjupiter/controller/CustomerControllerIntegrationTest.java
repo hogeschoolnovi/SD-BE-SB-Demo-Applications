@@ -7,6 +7,7 @@ import nl.novi.testjunitjupiter.service.CustomerService;
 import org.junit.jupiter.api.Test;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTest;
 import org.springframework.boot.test.mock.mockito.MockBean;
 import org.springframework.http.MediaType;
@@ -27,6 +28,7 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 
 @WebMvcTest
 @ContextConfiguration(classes={TestJunitJupiterApplication.class})
+@EnableConfigurationProperties
 public class CustomerControllerIntegrationTest {
 
     @Autowired

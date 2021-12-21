@@ -11,6 +11,7 @@ import org.mockito.Mock;
 import org.mockito.Mockito;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.boot.test.mock.mockito.MockBean;
 import org.springframework.test.context.ContextConfiguration;
@@ -19,6 +20,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 @SpringBootTest
 @ContextConfiguration(classes={TestJunitJupiterApplication.class})
+@EnableConfigurationProperties
 public class CustomerServiceIntegrationTest {
 
     @Autowired
