@@ -13,12 +13,8 @@ import java.io.IOException;
 @RestController
 public class FileUploadController {
 
-    @Autowired
-    private HttpServletRequest request;
-
-    @Value("${my.upload_location}")
+    @Value("${app.uploads}")
     private String storageLocation;
-//    private static String storageLocation = "/Users/peter/NOVI/Springboot/sandbox/25 file-upload-basic/uploaded_files/";
 
     @RequestMapping(value = "/file-upload", method = RequestMethod.POST)
     @ResponseBody
